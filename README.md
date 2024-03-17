@@ -2,8 +2,19 @@
   Breno's Portifolio Website
 </h1>
 
-## 🚀 Sections
+## Sections
 
 1.  **Introduction**
 2.  **Services**
 3.  **Experience**
+
+## Technologies
+
+- Typescript
+- HTML
+- CSS
+- React
+- Gatsby
+- Strapi
+- Git
+- Prettier
